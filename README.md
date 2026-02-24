@@ -144,7 +144,7 @@ Total harga dihitung berdasarkan rumus:
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d7e18de8-4f6d-4d26-8a06-803c0fb8a727" />
 
-🟣 BONUS (30 Points)
+# 🟣 BONUS (30 Points)
 
 Selain fitur wajib, saya juga menambahkan fitur bonus untuk meningkatkan nilai.
 
@@ -194,6 +194,7 @@ Muncul dialog konfirmasi
 Keranjang dikosongkan
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cf9c8263-8417-4bfa-999d-08784adc0f3e" />
+
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/67ca2481-77c6-4ffc-9cd4-e051b59a8349" />
 
