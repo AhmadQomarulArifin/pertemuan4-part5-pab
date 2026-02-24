@@ -1,12 +1,14 @@
-Nama: Ahmad Qomarul Arifin
-NIM: 2409116114
-Mata Kuliah: Pemrograman Aplikasi Bergerak
+# Nama: Ahmad Qomarul Arifin
+
+# NIM: 2409116114
+
+# Mata Kuliah: Pemrograman Aplikasi Bergerak
 
 
 
 
-📌 PART 5: Shopping Cart Hands-On
-🎯 Tujuan Project
+# 📌 PART 5: Shopping Cart Hands-On
+# 🎯 Tujuan Project
 
 Pada sesi ini, saya diminta untuk mencoba sebuah aplikasi Mini E-Commerce Shopping Cart menggunakan Flutter dengan pendekatan state management Provider. Project ini dirancang untuk memberikan pemahaman praktik mengenai bagaimana sebuah aplikasi dapat mengelola data secara dinamis, khususnya dalam konteks sistem keranjang belanja seperti yang terdapat pada aplikasi marketplace modern.
 
@@ -41,33 +43,51 @@ Dengan penggunaan Provider, aplikasi menjadi lebih terstruktur, mudah dikembangk
 Berikut fitur yang berhasil saya implementasikan pada sesi hands-on:
 
 ✔ Product Model
+
 ✔ Cart Model with ChangeNotifier
+
 ✔ Product List Page
+
 ✔ Add to Cart Button
+
 ✔ Cart Badge Showing Item Count
+
 ✔ Cart Page with All Items
+
 ✔ Increase / Decrease Quantity
+
 ✔ Remove Item Button
+
 ✔ Total Price Calculation
+
 ✔ Empty Cart Message
 
 # Struktur Folder
 lib/
+
 ├── main.dart
+
 └── models/
+
 product.dart
+
 cart_model.dart
+
 cart_item.dart
+
 └── pages/
+
 product_list_page.dart
+
 cart_page.dart
+
 checkout_page.dart
 
-TUGAS RUMAH – Shopping Cart Enhancement
+# TUGAS RUMAH – Shopping Cart Enhancement
 
-Pada tugas rumah, project dikembangkan lebih lanjut dengan fitur tambahan WAJIB dan BONUS.
+## Pada tugas rumah, project dikembangkan lebih lanjut dengan fitur tambahan WAJIB dan BONUS.
 
-🟢 WAJIB (70 Points)
+### 🟢 WAJIB (70 Points)
 
 # Berikut fitur wajib yang saya kerjakan:
 
